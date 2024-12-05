@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=64.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mcqgenerator"
+version = "0.0.1"
+authors = [
+    {name = "sunny savita", email = "sunny.savita@ineuron.ai"},
+]
+dependencies = [
+    "openai",
+    "langchain",
+    "streamlit",
+    "python-dotenv",
+    "PyPDF2",
+]

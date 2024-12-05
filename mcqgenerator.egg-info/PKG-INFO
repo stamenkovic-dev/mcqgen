@@ -2,7 +2,7 @@ Metadata-Version: 2.1
 Name: mcqgenerator
 Version: 0.0.1
 Author: sunny savita
-Author-email: sunny.savita@ineuron.ai
+Author-email: sunny savita <sunny.savita@ineuron.ai>
 Requires-Dist: openai
 Requires-Dist: langchain
 Requires-Dist: streamlit

@@ -1,4 +1,5 @@
 README.md
+pyproject.toml
 setup.py
 mcqgenerator.egg-info/PKG-INFO
 mcqgenerator.egg-info/SOURCES.txt
@@ -6,4 +7,7 @@ mcqgenerator.egg-info/dependency_links.txt
 mcqgenerator.egg-info/requires.txt
 mcqgenerator.egg-info/top_level.txt
 src/__init__.py
+src/msqgenerator/MSQGenerator.py
 src/msqgenerator/__init__.py
+src/msqgenerator/logger.py
+src/msqgenerator/utils.py
