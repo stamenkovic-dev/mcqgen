@@ -1,5 +1,5 @@
 # testing logger
 
-from src.msqgenerator.logger import logging
+from src.mcqgenerator.logger import logging
 
 logging.info("Hi, I am testing execution.")
