@@ -10,7 +10,7 @@ from src.mcqgenerator.MCQGenerator import generate_evaluate_chain, callback_hand
 from src.mcqgenerator.logger import logging
 
 # loading json file
-with open('/Users/predrag/Coding/mcqgen/Response.json', 'r') as file:
+with open('Response.json', 'r') as file:
     RESPONSE_JSON = json.load(file)
 
 
